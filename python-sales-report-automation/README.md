@@ -38,11 +38,11 @@ pip install pandas openpyxl pywin32
 
 ## How To Run
 
-- 1. Clone this repository
-- 2. Install the required dependencies
-- 3. place the 'vendas.xlsx' spreadsheet in the project directory
-- 4. Configure the recipient email address in the script
-- 5. Run the Python file.
+- Clone this repository
+- Install the required dependencies
+- place the 'vendas.xlsx' spreadsheet in the project directory
+- Configure the recipient email address in the script
+- Run the Python file.
 
 ## Learning Objectives
 
